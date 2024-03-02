@@ -4,7 +4,7 @@
 # above.  We may consider getting another Intel Mac if this
 # becomes a problem later, but the intention is not to do that
 PyQt6==6.2.3
-PyQt6-Qt6==6.2.4
+PyQt6-Qt6==6.6.2
 
 jinja2
 mido
